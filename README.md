@@ -3,15 +3,14 @@
 
 ### Overview
 
-![](D:\diffusion_shapely_value\material\overview.png)
-
+![](https://github.com/JunLei01/diffusion_shapley_value/blob/main/material/overview.png)
 ## Abstract
 
 Web-based AI image generation has become an innovative art form that can generate novel artworks with the rapid development of the diffusion model. However, this new technique brings potential copyright infringement risks as it may incorporate the existing artworks without the owners' consent. Copyright infringement quantification is the primary and challenging step towards AI-generated image copyright traceability. Previous work only focused on data attribution from the training data perspective, which is unsuitable for tracing and quantifying copyright infringement in practice because of the following reasons: (1) the training datasets are not always available in public; (2) the model provider is the responsible party, not the image. Motivated by this, in this paper, we propose **CopyScope**, a new framework to quantify the infringement of AI-generated images from the model level. We first rigorously identify pivotal components within the AI image generation pipeline. Then, we propose to take advantage of Fréchet Inception Distance (FID) to effectively capture the image similarity that fits human perception naturally. We further propose the FID-based Shapley algorithm to evaluate the infringement contribution among models. Extensive experiments demonstrate that our work not only reveals the intricacies of infringement quantification but also effectively depicts the infringing models quantitatively, thus promoting accountability in AI image-generation tasks.
 
 ## Quantitative results under different Quantitative metrics
 
-![Figure 4](../material/figure1.png)
+![Figure 1](https://github.com/JunLei01/diffusion_shapley_value/blob/main/material/figure1.png)
 
 | Figure No.  | Alliances                              | Cosine     | Hist       | DHash  | SSIM       | RGB-SSIM   | FID        | Fusion     |
 | ----------- | -------------------------------------- | ---------- | ---------- | ------ | ---------- | ---------- | ---------- | ---------- |
@@ -32,7 +31,7 @@ Web-based AI image generation has become an innovative art form that can generat
 
 ## Pixel Difference Experiment
 
-![](D:\diffusion_shapely_value\material\pixel image.png)
+![Figure 2](https://github.com/JunLei01/diffusion_shapley_value/blob/main/material/pixel%20image.png)
 
 ## FID-Shapley
 
@@ -44,8 +43,8 @@ $$
 
 ## Contribution of the models
 
-<img src="D:\diffusion_shapely_value\material\figure_1.png" style="zoom:67%;" /> <img src="D:\MyGraduate\paper\WWW\diffusion_shapely_value\result\Fusion_bar.png" style="zoom: 25%;" />
+<img src="https://github.com/JunLei01/diffusion_shapley_value/blob/main/material/figure_1.png" style="zoom:67%;" /> <img src="https://github.com/JunLei01/diffusion_shapley_value/blob/main/material/Fusion_bar.png" style="zoom: 25%;" />
 
 ## Ablation experiment
 
-![](D:\diffusion_shapely_value\material\图片1.png)
+![](https://github.com/JunLei01/diffusion_shapley_value/blob/main/material/figure7.png)
