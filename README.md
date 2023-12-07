@@ -11,7 +11,7 @@ Web-based AI image generation has become an innovative art form that can generat
 
 ## Quantitative results under different Quantitative metrics
 
-![Figure 4](D:\diffusion_shapely_value\material\figure1.png)
+![Figure 4](../material/figure1.png)
 
 | Figure No.  | Alliances                              | Cosine     | Hist       | DHash  | SSIM       | RGB-SSIM   | FID        | Fusion     |
 | ----------- | -------------------------------------- | ---------- | ---------- | ------ | ---------- | ---------- | ---------- | ---------- |
