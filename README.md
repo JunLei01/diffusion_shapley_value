@@ -35,10 +35,10 @@ Web-based AI image generation has become an innovative art form that can generat
 
 ## FID-Shapley
 
-$
+$'
 \textbf{FID} = {\parallel \mu_r - \mu_g \parallel}_2^2 + Tr(\Sigma_r + \Sigma_g - 2(\Sigma_r \Sigma_g)^{1/2}). \\
 v_{SV}(z_i) \propto \frac{1}{N}\sum_{\mathcal{L} \subseteq \mathcal{M} \setminus {z_i}} [U(\mathcal{L} \cup {z_i})-U(\mathcal{L})] \frac{| \mathcal{L} |!(N-1-|\mathcal{L}|)!}{(N-1)!}.
-$
+'$
 
 ## Contribution of the models
 
