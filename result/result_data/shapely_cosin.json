@@ -1,0 +1,7 @@
+"defaultdict(int",
+            {'controlNet': 0.04132609912476073,
+             'da leonardo da vinci': 0.09325722637015345,
+             'mona_lisa': 0.03340922499244721,
+             'lora:wjqleonardo:1': -0.009701360640260172,
+             'stableDiffusion-pruned-v-1-5': 0.0,
+             'stablydiffusedsMagnum_ _v10': -0.004309593800838175})
