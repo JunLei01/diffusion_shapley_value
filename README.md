@@ -43,7 +43,7 @@ $$
 
 ## Contribution of the models
 
-<img src="https://github.com/JunLei01/diffusion_shapley_value/blob/main/material/figure_1.png" style="zoom:40%;" /> <img src="https://github.com/JunLei01/diffusion_shapley_value/blob/main/material/Fusion_bar.png" style="zoom: 10%;" />
+![](https://github.com/JunLei01/diffusion_shapley_value/blob/main/material/result.png)
 
 ## Ablation experiment
 
