@@ -8,11 +8,11 @@ PART corresponds to the subject attribute. We use an image segmenter to identify
 
 Distribution of data in the fused dimension indicator before and after dimensionality reduction using PCA method
 
-<img src="D:\diffusion_shapely_value\material\BPCA.png" style="zoom:50%;" /><img src="D:\diffusion_shapely_value\material\APCA.png" style="zoom:50%;" />
+<img src="https://github.com/JunLei01/diffusion_shapley_value/blob/main/material/BPCA.png" style="zoom:50%;" /><img src="https://github.com/JunLei01/diffusion_shapley_value/blob/main/material/APCA.png" style="zoom:50%;" />
 
 Distribution of Fusion scores across different alliances
 
-![](D:\diffusion_shapely_value\material\chart.png)
+![](https://github.com/JunLei01/diffusion_shapley_value/blob/main/material/chart.png)
 
 
 
@@ -47,11 +47,11 @@ Shapley result:
 
 ## Contribution of the models
 
-<img src="D:\diffusion_shapely_value\material\figure_1.png" style="zoom:67%;" /> <img src="D:\MyGraduate\paper\WWW\diffusion_shapely_value\result\Fusion_bar.png" style="zoom: 25%;" />
+![](https://github.com/JunLei01/diffusion_shapley_value/blob/main/material/result1.png)
 
 ## Ablation experiment
 
-![](D:\diffusion_shapely_value\material\图片1.png)
+![](https://github.com/JunLei01/diffusion_shapley_value/blob/main/material/figure7.png)
 
 Combining the results of the ablation experiment shown in Ablation experiment of the paper, we can easily see that the performance of **FID-Shapley** is closest to the results of the ablation experiment. 
 
